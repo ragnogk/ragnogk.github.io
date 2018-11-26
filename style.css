@@ -1,0 +1,36 @@
+div.header {
+    text-align: center;
+    vertical-align: top;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.placeholder {
+    text-align: center;
+}
+
+div.navbar {
+    display: inline-block;
+    width: 10%;
+    text-align: left;
+}
+
+div.content {
+    display: inline-block;
+    width: 80%;
+    text-align: left;
+    vertical-align: top;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: 100;
+}
+
+h1.home {
+    color: rgb(0, 110, 255)
+}
+
+h1.about {
+    color: yellow;
+}
+
+h1.contact {
+    color: green;
+}
