@@ -1,0 +1,32 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.my_btn_color {
+    background-color: saddlebrown;
+}
+
+.jumbotron {
+    background-color: steelblue;
+}
+
+.fixedheight {
+    height: 250px;
+    overflow: hidden;
+}
+
+h1 {
+    color: aqua !important; 
+}
+
+.my_link:hover {
+    text-decoration: none;
+}
+
+.my_link{
+    color: black;
+}
+
+.general_spacing{
+    margin: 100px;
+}
